@@ -632,4 +632,208 @@
       </price>
     </supplydetail>
   </product>
+  <product>
+    <a001>ColumbiaUniversityPress13452</a001>
+    <a002>03</a002>
+    <a194>01</a194>
+    <a197>Columbia University Press</a197>
+    <productidentifier>
+      <b221>01</b221>
+      <b233>Virtusales Biblio ID</b233>
+      <b244>13452</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>02</b221>
+      <b244>0231543975</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9780231543975</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9780231543975</b244>
+    </productidentifier>
+    <b246>00</b246>
+    <b012>DG</b012>
+    <b333>E101</b333>
+    <b014>AUDIBOOK</b014>
+    <b211>029</b211>
+    <b213>EPUB</b213>
+    <n338 />
+    <descriptivedetail>
+      <titledetail>
+        <titleelement>
+          <b202>02</b202>
+          <b203>Audiotest</b203>
+        </titleelement>
+      </titledetail>
+      <audience>
+        <b204>01</b204>
+      </audience>
+      <contributor>
+        <b034>1</b034>
+        <b035>A01</b035>
+        <b036>Laurent Le Meur</b036>
+        <b037>Le Meur, Laurent</b037>
+        <b039>Laurent</b039>
+        <b040>Le Meur</b040>
+      </contributor>
+      <subject>
+        <b067>10</b067>
+        <b069>TEC010000</b069>
+        <b070>TECHNOLOGY &amp; ENGINEERING / Environmental / General</b070>
+      </subject>
+      <subject>
+        <b067>10</b067>
+        <b069>ARC018000</b069>
+        <b070>ARCHITECTURE / Sustainability &amp; Green Design</b070>
+      </subject>
+    </descriptivedetail>
+    <title>
+      <b202>01</b202>
+      <b203>Audiotest</b203>
+    </title>
+    <workidentifier>
+      <b201>01</b201>
+      <b233>BiblioWorkID</b233>
+      <b244>7915</b244>
+    </workidentifier>
+    <b049>Laurent Le Meur</b049>
+    <n386 />
+    <language>
+      <b253>01</b253>
+      <b252>eng</b252>
+    </language>
+    <language>
+      <b253>02</b253>
+      <b252>eng</b252>
+    </language>
+    <extent>
+      <b218>02</b218>
+      <b219>79721</b219>
+      <b220>02</b220>
+    </extent>
+    <b064>POL002000</b064>
+    <b073>06</b073>
+    <othertext>
+      <d102>13</d102>
+      <d103>06</d103>
+      <d104>Steven Cohen is executive director of Columbia University&#39;s Earth Institute and a professor in the practice of public affairs at Columbia University&#39;s School of International and Public Affairs. He is the director of the Master of Public Administration Program in Environmental Science and Policy and the Master of Science in Sustainability Management at Columbia. His books include &lt;i&gt;Sustainability Management: Lessons from and for New York City, America, and the Planet&lt;/i&gt; (2011) and &lt;i&gt;Understanding Environmental Policy&lt;/i&gt; (2014, second edition), both from Columbia University Press.</d104>
+    </othertext>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Living sustainably is not just about preserving the wilderness or keeping nature pristine. The transition to a green economy depends on cities. For the first time in human history, the majority of the people on the planet live in urban areas. If we are to avert climate catastrophe, we will need our cities to coexist with nature without destroying it. Many places are already investing in the infrastructure of the future&#8212;including renewable energy, energy efficiency, mass and personal transit, and advanced sewage and waste management&#8212;but the modern city still has a long way to go.&lt;br&gt;&lt;br&gt;In &lt;i&gt;The Sustainable City&lt;/i&gt;, Steven Cohen provides a broad and engaging overview of the urban systems of the twenty-first century, surveying policies and projects already under way in cities around the world and pointing to more ways progress can be made. Cohen discusses the sustainable city from an organizational-management and public-policy perspective that emphasizes the local level, looking at case studies of existing legislation, programs, and public-private partnerships that strive to align modern urban life and sustainability. From waste management in Beijing to energy infrastructure in Africa to public space in Washington, D.C., there are concrete examples of what we can do right now. Cohen synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>06</d103>
+      <d104>Steven Cohen shows us how the great cities of the twenty-first century can use sustainable methods to thrive economically while simultaneously providing a higher quality of life for their residents. A must read for current and future leaders in a rapidly urbanizing world.</d104>
+      <d107>William Eimicke, Columbia University</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>06</d103>
+      <d104>At the city level, the question of how to handle water resources, energy use, and transportation is not abstract but concrete. Citizens, planners, businesspeople, and policy makers can easily see the problems and how a sustainable approach would be beneficial. Steven Cohen draws on his extensive teaching and public management experience in documenting the kinds of sustainability measures that have been successful in major cities around the world, and he points to what other cities realistically can do in the future.</d104>
+      <d107>Michael E. Kraft, coeditor of &lt;i&gt;The Oxford Handbook of U.S. Environmental Policy&lt;/i&gt;</d107>
+    </othertext>
+    <othertext>
+      <d102>04</d102>
+      <d103>06</d103>
+      <d104>Preface&lt;br&gt;Acknowledgments &lt;br&gt;&lt;b&gt;Part I: Concepts&lt;/b&gt;&lt;br&gt;1. Defining the Sustainable City&lt;br&gt;2. Sustainable Urban Systems: Defined and Explained&lt;br&gt;3. The Sustainable Lifestyle: Defined and Explained&lt;br&gt;4. The Transition to Sustainably Managed Organizations&lt;br&gt;5. The Role of Politics and Public Policy in Building Sustainable Cities&lt;br&gt;&lt;b&gt;Part II: Cases in Urban Sustainability&lt;/b&gt;&lt;br&gt;6. Waste Management in New York City, Hong Kong and Beijing&lt;br&gt;7. Mass and Personal Transit&lt;br&gt;8. The Building of the Smartgrid: Cases of Microgrid Development&lt;br&gt;9. Parks and Public Space&lt;br&gt;10. Sustainable Urban Living&lt;br&gt;&lt;b&gt;Part III: Conclusions&lt;/b&gt;&lt;br&gt;11. Toward the Sustainable City&lt;br&gt;Works Cited&lt;br&gt;Index</d104>
+    </othertext>
+    <imprint>
+      <b241>01</b241>
+      <b242>BiblioImprintID</b242>
+      <b243>1002</b243>
+      <b079>Columbia University Press</b079>
+    </imprint>
+    <publisher>
+      <b291>01</b291>
+      <b241>01</b241>
+      <b243>1007</b243>
+      <b081>Columbia University Press</b081>
+    </publisher>
+    <b209>New York</b209>
+    <b083>US</b083>
+    <b394>02</b394>
+    <b003>20171121</b003>
+    <salesrights>
+      <b089>01</b089>
+      <b090>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</b090>
+    </salesrights>
+    <measure>
+      <c093>01</c093>
+      <c094>228.6</c094>
+      <c095>mm</c095>
+    </measure>
+    <measure>
+      <c093>01</c093>
+      <c094>9</c094>
+      <c095>in</c095>
+    </measure>
+    <measure>
+      <c093>02</c093>
+      <c094>152.4</c094>
+      <c095>mm</c095>
+    </measure>
+    <measure>
+      <c093>02</c093>
+      <c094>6</c094>
+      <c095>in</c095>
+    </measure>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9780231182041</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Ingram Distribution Services</j137>
+      <j292>00</j292>
+      <j138>CA</j138>
+      <j141>NP</j141>
+      <price>
+        <j148>01</j148>
+        <j151>34.00</j151>
+        <j152>CAD</j152>
+        <j153>Z</j153>
+        <j154>0</j154>
+        <j155>34.00</j155>
+        <j156>0.00</j156>
+      </price>
+    </supplydetail>
+    <supplydetail>
+      <j137>Wiley Distribution Services</j137>
+      <j292>00</j292>
+      <j138>GB</j138>
+      <j141>NP</j141>
+      <price>
+        <j148>01</j148>
+        <j151>20.95</j151>
+        <j152>GBP</j152>
+        <j153>Z</j153>
+        <j154>0</j154>
+        <j155>20.95</j155>
+        <j156>0.00</j156>
+      </price>
+    </supplydetail>
+    <supplydetail>
+      <j137>Ingram Distribution Services</j137>
+      <j292>00</j292>
+      <j138>AF AL AQ DZ AS AD AO AG AZ AR AU AT BS BH BD AM BB BE BM BT BO BA BW BV BR BZ IO SB VG BN BG MM BI BY KH CM CV KY CF LK TD CL CN TW CX CC CO KM YT CG CD CK CR HR CU CY CZ BJ DK DM DO EC SV GQ ET ER EE FO FK GS FJ FI AX FR GF PF TF DJ GA GE GM PS DE GH GI KI GR GL GD GP GU GT GN GY HT HM VA HN HK HU IS IN ID IR IQ IE IL IT CI JM JP KZ JO KE KP KR KW KG LA LB LS LV LR LY LI LT LU MO MG MW MY MV ML MT MQ MR MU MX MC MN MD ME MS MA MZ OM NA NR NP NL CW AW SX BQ NC VU NZ NI NE NG NU NF NO MP UM FM MH PW PK PA PG PY PE PH PN PL PT GW TL PR QA RE RO RU RW BL SH KN AI LC MF PM VC SM ST SA SN RS SC SL SG SK VN SI SO ZA ZW ES SS EH SD SR SJ SZ SE CH SY TJ TH TG TK TO TT AE TN TR TM TC TV UG UA MK EG GG JE IM TZ US VI BF UY UZ VE WF WS YE ZM</j138>
+      <j141>NP</j141>
+      <price>
+        <j148>01</j148>
+        <j151>25.99</j151>
+        <j152>USD</j152>
+        <j153>Z</j153>
+        <j154>0</j154>
+        <j155>0.00</j155>
+        <j156>0.00</j156>
+      </price>
+    </supplydetail>
+  </product>
 </ONIXmessage>
